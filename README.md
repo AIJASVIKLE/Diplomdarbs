@@ -1,2 +1,2 @@
 # Diplomdarbs
-## Datu plusmu analize telekomunikaciju tiklos
+## Datu plūsmu analīze telekomunikāciju tīklos
